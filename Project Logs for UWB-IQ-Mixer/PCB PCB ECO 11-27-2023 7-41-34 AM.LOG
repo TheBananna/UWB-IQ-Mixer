@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=DATACLK_P Pin=U5-C141
+Removed Pin From Net: NetName=DATACLK_N Pin=U5-C142
+Added Pin To Net: NetName=DATACLK_N Pin=U5-C141
+Added Pin To Net: NetName=DATACLK_P Pin=U5-C142

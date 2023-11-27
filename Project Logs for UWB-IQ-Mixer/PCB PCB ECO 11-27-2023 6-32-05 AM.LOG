@@ -1,0 +1,6 @@
+Change Net Name : Old Net Name=FPGA_REF1N New Net Name=REF1_N
+Change Net Name : Old Net Name=FPGA_REF1P New Net Name=REF1_P
+Change Net Name : Old Net Name=FPGA_REF2N New Net Name=REF2_N
+Change Net Name : Old Net Name=FPGA_REF2P New Net Name=REF2_P
+Added Differential Pair: Name=REF1
+Added Differential Pair: Name=REF2

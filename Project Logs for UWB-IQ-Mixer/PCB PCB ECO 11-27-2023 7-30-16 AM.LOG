@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=DATA13_N Pin=U5-C117
+Removed Pin From Net: NetName=DATA13_P Pin=U5-C118
+Added Pin To Net: NetName=DATA13_P Pin=U5-C117
+Added Pin To Net: NetName=DATA13_N Pin=U5-C118

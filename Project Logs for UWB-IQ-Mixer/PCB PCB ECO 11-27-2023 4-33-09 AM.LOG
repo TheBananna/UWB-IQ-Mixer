@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetIC6_1 Pin=U3-12
+Removed Pin From Net: NetName=NetIC3_1 Pin=U3-29
+Added Pin To Net: NetName=NetIC3_1 Pin=U3-12
+Added Pin To Net: NetName=NetIC6_1 Pin=U3-29
+Change Net Name : Old Net Name=FPGA_REF1N New Net Name= FPGA_REF1N

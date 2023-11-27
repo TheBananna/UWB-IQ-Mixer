@@ -1,0 +1,120 @@
+Removed Pin From Net: NetName=FPGA_REF2P Pin=U5-D118
+Removed Pin From Net: NetName=FPGA_REF2N Pin=U5-D119
+Change Component Library : Designator=U5 Old Library=SM-K26-XCL2GI.IntLib New Library=SM-K26-XCL2GI.SchLib
+Added Pin To Net: NetName=FPGA_REF2P Pin=U5-C141
+Added Pin To Net: NetName=FPGA_REF2N Pin=U5-C142
+Change Net Name : Old Net Name=DACCLKN New Net Name=DACCLK_N
+Change Net Name : Old Net Name=DACCLKP New Net Name=DACCLK_P
+Added Pin To Net: NetName=DATA0_N Pin=U4-40
+Added Pin To Net: NetName=DATA0_N Pin=U5-A112
+Added Net: Name=DATA0_N
+Added Pin To Net: NetName=DATA0_P Pin=U4-39
+Added Pin To Net: NetName=DATA0_P Pin=U5-A111
+Added Net: Name=DATA0_P
+Added Pin To Net: NetName=DATA1_N Pin=U4-38
+Added Pin To Net: NetName=DATA1_N Pin=U5-A115
+Added Net: Name=DATA1_N
+Added Pin To Net: NetName=DATA1_P Pin=U4-37
+Added Pin To Net: NetName=DATA1_P Pin=U5-A114
+Added Net: Name=DATA1_P
+Added Pin To Net: NetName=DATA2_N Pin=U4-36
+Added Pin To Net: NetName=DATA2_N Pin=U5-A118
+Added Net: Name=DATA2_N
+Added Pin To Net: NetName=DATA2_P Pin=U4-35
+Added Pin To Net: NetName=DATA2_P Pin=U5-A117
+Added Net: Name=DATA2_P
+Added Pin To Net: NetName=DATA3_N Pin=U4-34
+Added Pin To Net: NetName=DATA3_N Pin=U5-A121
+Added Net: Name=DATA3_N
+Added Pin To Net: NetName=DATA3_P Pin=U4-33
+Added Pin To Net: NetName=DATA3_P Pin=U5-A120
+Added Net: Name=DATA3_P
+Added Pin To Net: NetName=DATA4_N Pin=U4-32
+Added Pin To Net: NetName=DATA4_N Pin=U5-A124
+Added Net: Name=DATA4_N
+Added Pin To Net: NetName=DATA4_P Pin=U4-31
+Added Pin To Net: NetName=DATA4_P Pin=U5-A123
+Added Net: Name=DATA4_P
+Added Pin To Net: NetName=DATA5_N Pin=U4-30
+Added Pin To Net: NetName=DATA5_N Pin=U5-A127
+Added Net: Name=DATA5_N
+Added Pin To Net: NetName=DATA5_P Pin=U4-29
+Added Pin To Net: NetName=DATA5_P Pin=U5-A126
+Added Net: Name=DATA5_P
+Added Pin To Net: NetName=DATA6_N Pin=U4-27
+Added Pin To Net: NetName=DATA6_N Pin=U5-B113
+Added Net: Name=DATA6_N
+Added Pin To Net: NetName=DATA6_P Pin=U4-26
+Added Pin To Net: NetName=DATA6_P Pin=U5-B112
+Added Net: Name=DATA6_P
+Added Pin To Net: NetName=DATA7_N Pin=U4-23
+Added Pin To Net: NetName=DATA7_N Pin=U5-B116
+Added Net: Name=DATA7_N
+Added Pin To Net: NetName=DATA7_P Pin=U4-22
+Added Pin To Net: NetName=DATA7_P Pin=U5-B115
+Added Net: Name=DATA7_P
+Added Pin To Net: NetName=DATA8_N Pin=U4-20
+Added Pin To Net: NetName=DATA8_N Pin=U5-B119
+Added Net: Name=DATA8_N
+Added Pin To Net: NetName=DATA8_P Pin=U4-19
+Added Pin To Net: NetName=DATA8_P Pin=U5-B118
+Added Net: Name=DATA8_P
+Added Pin To Net: NetName=DATA9_N Pin=U4-18
+Added Pin To Net: NetName=DATA9_N Pin=U5-B122
+Added Net: Name=DATA9_N
+Added Pin To Net: NetName=DATA9_P Pin=U4-17
+Added Pin To Net: NetName=DATA9_P Pin=U5-B121
+Added Net: Name=DATA9_P
+Added Pin To Net: NetName=DATA10_N Pin=U4-16
+Added Pin To Net: NetName=DATA10_N Pin=U5-B125
+Added Net: Name=DATA10_N
+Added Pin To Net: NetName=DATA10_P Pin=U4-15
+Added Pin To Net: NetName=DATA10_P Pin=U5-B124
+Added Net: Name=DATA10_P
+Added Pin To Net: NetName=DATA11_N Pin=U4-14
+Added Pin To Net: NetName=DATA11_N Pin=U5-C112
+Added Net: Name=DATA11_N
+Added Pin To Net: NetName=DATA11_P Pin=U4-13
+Added Pin To Net: NetName=DATA11_P Pin=U5-C111
+Added Net: Name=DATA11_P
+Added Pin To Net: NetName=DATA12_N Pin=U4-12
+Added Pin To Net: NetName=DATA12_N Pin=U5-C115
+Added Net: Name=DATA12_N
+Added Pin To Net: NetName=DATA12_P Pin=U4-11
+Added Pin To Net: NetName=DATA12_P Pin=U5-C114
+Added Net: Name=DATA12_P
+Added Pin To Net: NetName=DATA13_N Pin=U4-10
+Added Pin To Net: NetName=DATA13_N Pin=U5-C118
+Added Net: Name=DATA13_N
+Added Pin To Net: NetName=DATA13_P Pin=U4-9
+Added Pin To Net: NetName=DATA13_P Pin=U5-C117
+Added Net: Name=DATA13_P
+Added Pin To Net: NetName=DATACLK_N Pin=U4-25
+Added Pin To Net: NetName=DATACLK_N Pin=U5-D119
+Added Net: Name=DATACLK_N
+Added Pin To Net: NetName=DATACLK_P Pin=U4-24
+Added Pin To Net: NetName=DATACLK_P Pin=U5-D118
+Added Net: Name=DATACLK_P
+Added Pin To Net: NetName=SYNC_N Pin=U4-7
+Added Pin To Net: NetName=SYNC_N Pin=U5-C139
+Added Net: Name=SYNC_N
+Added Pin To Net: NetName=SYNC_P Pin=U4-6
+Added Pin To Net: NetName=SYNC_P Pin=U5-C138
+Added Net: Name=SYNC_P
+Added Differential Pair: Name=DACCLK
+Added Differential Pair: Name=DATA0
+Added Differential Pair: Name=DATA1
+Added Differential Pair: Name=DATA2
+Added Differential Pair: Name=DATA3
+Added Differential Pair: Name=DATA4
+Added Differential Pair: Name=DATA5
+Added Differential Pair: Name=DATA6
+Added Differential Pair: Name=DATA7
+Added Differential Pair: Name=DATA8
+Added Differential Pair: Name=DATA9
+Added Differential Pair: Name=DATA10
+Added Differential Pair: Name=DATA11
+Added Differential Pair: Name=DATA12
+Added Differential Pair: Name=DATA13
+Added Differential Pair: Name=DATACLK
+Added Differential Pair: Name=SYNC
